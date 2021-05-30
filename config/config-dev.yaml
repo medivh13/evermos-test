@@ -1,0 +1,12 @@
+appName: evermos-test
+
+server:
+  port: "9009"
+  log_level: 3
+
+db:
+  host: localhost
+  port: 5432
+  dbname: evermos-test
+  user: postgres
+  password: 3192jodyAA
